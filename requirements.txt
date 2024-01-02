@@ -1,2 +1,2 @@
 streamlit
-moneycontrol-api
+moneycontrol
