@@ -1,0 +1,2 @@
+streamlit
+moneycontrol-api
